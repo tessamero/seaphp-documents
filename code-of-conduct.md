@@ -11,7 +11,7 @@ SeaPHP UG desires to be inclusive to the largest number of contributors as
 possible. As such, we are committed to providing a friendly, safe, and welcoming
 environment for all, regardless of their professional or personal background
 including education, experience, age, ability, gender, sexual orientation,
-ethnicity, socioeconomic status, disability, physical appearance, or religion.
+ethnicity, socioeconomic status, disability, physical appearance, political beliefs, or religion.
 We invite all those who participate in SeaPHP UG to help us in creating such an
 environment.
 
@@ -71,11 +71,11 @@ in person at an event.
 
 The current organizers are:
 
+* Tessa Mero ([@TessaMero](https://twitter.com/TessaMero))
 * Ian Maddox ([@isNoOp](https://twitter.com/isNoOp))
 * Jeremy Lindblom ([@jeremeamia](https://twitter.com/jeremeamia))
-* Joel Simpson ([@JoelRSimpson](https://twitter.com/JoelRSimpson))
-* Tessa Mero ([@TessaMero](https://twitter.com/TessaMero))
-* Dan Munro ([@danielmunro](https://twitter.com/danielmunro))
+* Andrew Woods ([@awoods](https://twitter.com/awoods))
+
 
 If you have a complaint that involves an organizer, you can contact one of the
 others in confidence. The group is the priority, and steps will be taken to
